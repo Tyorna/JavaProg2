@@ -1,0 +1,2 @@
+[Riviste [ISBN=321432, title=dsfds, periodicita=Settimanale, annoPubbl=432, numeroPagine=3]
+]
